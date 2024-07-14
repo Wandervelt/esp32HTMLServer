@@ -5,7 +5,7 @@
 #include <uri/UriBraces.h>
 
 #define WIFI_SSID "TP-Link_0633"
-#define WIFI_PASS "PASS"
+#define WIFI_PASS "PASS_W"
 
 WebServer server(80);
 
